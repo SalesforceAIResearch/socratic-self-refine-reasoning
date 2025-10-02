@@ -1,5 +1,9 @@
 # Socratic Self-Refine (SSR)
-This is the official repo for the paper "SSR: Socratic Self-Refine for Large Language Model Reasoning" 
+This is the official repo (for research purpose only) for the paper "SSR: Socratic Self-Refine for Large Language Model Reasoning," built upon the codebase of [AoT](https://github.com/qixucen/atom).
+
+<p align="center">
+<img src="fig/ssr-overview.png" alt="" data-canonical-src="fig/ssr-overview.png" width="100%"/>
+</p>
 
 ## Environment Setup
 ```sh
